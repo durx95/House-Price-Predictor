@@ -6,7 +6,7 @@ The app is built using **Python, Scikit-learn, and Streamlit**, and deployed on 
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-app-name.streamlit.app  
+🔗 https://durgesh-ml-lab.streamlit.app  
 
 *(Replace with your actual deployed URL)*
 
