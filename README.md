@@ -8,8 +8,6 @@ The app is built using **Python, Scikit-learn, and Streamlit**, and deployed on 
 ## 🚀 Live Demo
 🔗 https://durgesh-ml-lab.streamlit.app  
 
-*(Replace with your actual deployed URL)*
-
 ---
 
 ## 🧠 Problem Statement
@@ -52,3 +50,12 @@ This project aims to predict house prices using historical housing data and mach
 ---
 
 ## 📂 Project Structure
+
+HOUSE_PRICE_PREDICTOR/
+│
+├── app.py                         # Streamlit web application
+├── house_price_prediction.ipynb   # Model training notebook
+├── model.pkl                      # Trained machine learning model
+├── train.csv                      # Training dataset
+├── requirements.txt               # Required Python libraries
+└── README.md                      # Project documentation
