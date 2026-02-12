@@ -56,12 +56,12 @@ This project aims to predict house prices using historical housing data and mach
 ### Streamlit web application
 ├── [app.py](https://github.com/durx95/House-Price-Predictor/blob/main/app.py)
 ### Model training notebook
-├── house_price_prediction.ipynb   
+├── [house_price_prediction.ipynb](https://github.com/durx95/House-Price-Predictor/blob/main/house_price_prediction.ipynb)   
 ### Trained machine learning model
-├── model.pkl                      
+├── [model.pkl](https://github.com/durx95/House-Price-Predictor/blob/main/model.pkl)                      
 ### Training dataset
-├── train.csv                      
+├── [train.csv](https://github.com/durx95/House-Price-Predictor/blob/main/train.csv)                      
 ### Required Python libraries
-├── requirements.txt               
+├── [requirements.txt](https://github.com/durx95/House-Price-Predictor/blob/main/requirements.txt)               
 ### Project documentation
-└── README.md                      
+└──[README.md](https://github.com/durx95/House-Price-Predictor?tab=readme-ov-file#model-training-notebook)                      
