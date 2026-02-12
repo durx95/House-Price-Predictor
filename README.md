@@ -53,16 +53,15 @@ This project aims to predict house prices using historical housing data and mach
 
 ## HOUSE_PRICE_PREDICTOR
 │
-###
-├── app.py
 ### Streamlit web application
-├── house_price_prediction.ipynb   
+├── app.py
 ### Model training notebook
-├── model.pkl                      
+├── house_price_prediction.ipynb   
 ### Trained machine learning model
-├── train.csv                      
+├── model.pkl                      
 ### Training dataset
-├── requirements.txt               
+├── train.csv                      
 ### Required Python libraries
-└── README.md                      
+├── requirements.txt               
 ### Project documentation
+└── README.md                      
